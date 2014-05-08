@@ -1,4 +1,2 @@
-kurain-cn.github.io
-===================
-
-My Personal Site provided by Github
+# Kurain 的博客
+	
